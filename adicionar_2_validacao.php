@@ -12,7 +12,7 @@ if ($_SERVER ['REQUEST_METHOD'] == "GET") {
 	] );
 	$result = null;
 	echo "Inserido com sucesso!<br>";
-	echo "<a href=exibirRegistros.php>MENU</a>";
+	echo "<a href=index.php>MENU</a>";
 } else {
 	die ( "M�todo diferente de GET!" );
 }

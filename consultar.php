@@ -91,7 +91,7 @@ if ($_SERVER ['REQUEST_METHOD'] == "GET") {
 } else
 	echo "<br>Metodo diferente de GET.";
 
-echo "<br><a href=exibirRegistros.php>Menu</a>";
+echo "<br><a href=index.php>Menu</a>";
 $conn = null;
 
 ?>

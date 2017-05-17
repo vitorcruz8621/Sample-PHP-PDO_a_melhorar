@@ -19,5 +19,5 @@
 	}
 	else echo "<p>Metodo diferente de GET.";
 	$conn = null;
-	echo "<br><a href=exibirRegistros.php>Menu</a>";
+	echo "<br><a href=index.php>Menu</a>";
 ?>

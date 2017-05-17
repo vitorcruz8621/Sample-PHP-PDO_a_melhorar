@@ -51,5 +51,5 @@ try {
 	die ( "Continue tentando." );
 }
 
-echo "<br><a href=exibirRegistros.php>Menu</a>";
+echo "<br><a href=index.php>Menu</a>";
 ?>

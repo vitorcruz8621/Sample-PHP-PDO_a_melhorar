@@ -23,7 +23,7 @@
 				}
 			} else {
 				echo "Metodo diferente de GET.";
-				echo "<a href=exibirRegistros.php>MENU</a>";
+				echo "<a href=index.php>MENU</a>";
 				exit ();
 			}
 		} catch ( PDOException $exp ) {
